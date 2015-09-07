@@ -1,5 +1,5 @@
 # PHPBot
-First thing I ever wrote in PHP, haven't touched the code in years.
+First thing I ever wrote in PHP, dates back to the early 2000's I think?
  
 Still comes in handy sometimes a very simple IRC Bot with SSL and multi-network support.
  
